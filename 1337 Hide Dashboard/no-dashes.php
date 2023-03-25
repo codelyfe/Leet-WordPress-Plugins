@@ -4,7 +4,7 @@ Plugin Name: 1337 Hide Dashboard Widgets Wrap
 Plugin URI: https://codelyfe.github.io/
 Description: This plugin hides the dashboard-widgets-wrap element in the WordPress admin dashboard.
 Version: 1337.0
-Author: ランダル・バーガー・ジュニア
+Author: Randal Burger Jr
 Author URI: https://codelyfe.github.io/
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html

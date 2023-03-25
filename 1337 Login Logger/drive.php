@@ -4,7 +4,7 @@ Plugin Name: 1337 Login Logger
 Plugin URI: https://codelyfe.github.io/
 Description: A plugin that logs user login times and displays them in the settings page.
 Version: 1337.0
-Author: ランダル・バーガー・ジュニア
+Author: Randal Burger Jr
 Author URI: https://codelyfe.github.io/
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
