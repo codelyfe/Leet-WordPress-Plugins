@@ -13,3 +13,5 @@
 - Add custom code to the header of every page
 - Log user logins
 - Block SQL Injectors
+
+# We offer a plugin that allows you to enhance your security using newly developed security enhancements as well as keeping any website going even if there is a terrible plugin or theme update that crashes your WordPress website. ( contact form @ https://codelyfe.github.io ) for more info.
