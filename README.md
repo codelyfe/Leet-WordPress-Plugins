@@ -5,7 +5,7 @@
 
 ## What can these plugins offer?
 
-1. Light-weight plugins ( no more than 2 files. )
+1. Light-weight plugins ( no more than 3 files in each plugin. )
 2. Easy to use!
 3. Features:
 - Hide Dashboard
