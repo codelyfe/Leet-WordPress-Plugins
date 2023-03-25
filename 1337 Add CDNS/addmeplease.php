@@ -48,7 +48,7 @@ function cdn_settings_page() {
     <div class="wrap">
         <h1>CDN Settings</h1>
         <form method="post">
-            <?php for ( $i = 0; $i < 20; $i++ ) : ?>
+            <?php for ( $i = 0; $i < 10; $i++ ) : ?>
                 <label for="cdn_url_<?php echo $i; ?>">Input your CDN URLs <?php echo $i + 1; ?>:</label>
                 <input type="text" name="cdn_urls[<?php echo $i; ?>][url]" id="cdn_url_<?php echo $i; ?>" value="<?php echo esc_url( $cdn_urls[ $i ]['url'] ); ?>" /><br />
                 <input type="radio" name="cdn_urls[<?php echo $i; ?>][type]" value="css" <?php checked( $cdn_urls[ $i ]['type'], 'css' ); ?>> CSS
