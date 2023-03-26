@@ -1,7 +1,7 @@
 # Leet WordPress Plugins
  The most leet plugins created for WordPress developers. Create safer and faster performing websites today! 
 
- ( 15 Plugins so far )
+ ( 16 Plugins so far )
 
 ## What can these plugins offer?
 
