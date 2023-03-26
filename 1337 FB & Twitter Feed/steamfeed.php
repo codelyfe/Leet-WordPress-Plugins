@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: 1337 Social Media Feeds
+Plugin Name: 1337 FB & Twitter Feeds
 Plugin URI: https://codelyfe.github.io/
 Description: This plugin displays Facebook and Twitter feeds and allows users to set the URL and page ID.
 Version: 1337.0
