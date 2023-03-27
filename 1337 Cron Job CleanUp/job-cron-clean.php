@@ -8,6 +8,7 @@ Author: Randal Burger Jr
 Author URI: https://codelyfe.github.io
 License: GPL2
 */
+// I Provide Free Tech Support: https://support-desk.bss.design/index.html
 
 function cj_cleanup() {
     // Get the scheduled cron jobs

@@ -10,6 +10,8 @@ License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
+// I Provide Free Tech Support: https://support-desk.bss.design/index.html
+
 add_action( 'admin_enqueue_scripts', 'hide_dashboard_widgets_wrap' );
 
 function hide_dashboard_widgets_wrap() {

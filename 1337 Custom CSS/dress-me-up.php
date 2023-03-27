@@ -8,6 +8,7 @@ Author URI: https://codelyfe.github.io/
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
+// I Provide Free Tech Support: https://support-desk.bss.design/index.html
 
 // Add the admin menu
 add_action('admin_menu', 'your_custom_css_add_admin_menu');

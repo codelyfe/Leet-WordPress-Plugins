@@ -8,6 +8,7 @@ Author: Randal Burger Jr
 Author URI: https://codelyfe.github.io
 License: GPL2
 */
+// I Provide Free Tech Support: https://support-desk.bss.design/index.html
 
 // Register the live stream settings page
 function add_live_stream_settings_page() {

@@ -7,6 +7,7 @@ Version: 1337.0
 Author: Randal Burger Jr
 Author URI: https://codelyfe.github.io
 */
+// I Provide Free Tech Support: https://support-desk.bss.design/index.html
 
 function my_plugin_display_menu_page() {
     ?>

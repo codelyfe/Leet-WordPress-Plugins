@@ -9,6 +9,8 @@ Author URI: https://codelyfe.github.io/
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
+// I Provide Free Tech Support: https://support-desk.bss.design/index.html
+
 [social_media_feeds]
 
 */
