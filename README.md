@@ -5,9 +5,10 @@
 
 ## What can these plugins offer?
 
-1. Light-weight plugins ( no more than 3 files in each plugin. )
+1. Light-weight plugins ( no more than 3 files in each plugin. ( Save File Server Space ) )
 2. Performance and Security Enhancements
-3. Features:
+3. Stop Using Bloated Unsecure Plugins and use these!
+4. Features:
 - Hide Dashboard
 - Developer Note Taking
 - Customize Background Color
