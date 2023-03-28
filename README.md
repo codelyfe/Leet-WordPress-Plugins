@@ -6,7 +6,7 @@
 ## What can these plugins offer?
 
 1. Light-weight plugins ( no more than 3 files in each plugin. )
-2. Easy to use!
+2. Performance and Security Enhancements
 3. Features:
 - Hide Dashboard
 - Developer Note Taking
