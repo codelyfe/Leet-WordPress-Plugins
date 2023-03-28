@@ -1,7 +1,7 @@
 # Leet WordPress Plugins
  The most leet plugins created for WordPress developers. Create safer and faster performing websites today! 
 
- ( 17 Plugins so far )
+ ( 18 Plugins so far )
 
 ## What can these plugins offer?
 
@@ -21,5 +21,6 @@
 - Display Youtube live stream on page or posts.
 - Hosted CDN Enabler
 - Monitor Server Resources
+- Lazy image loader
 
 # We offer a plugin that allows you to enhance your security using newly developed security enhancements as well as keeping any website going even if there is a terrible plugin or theme update that crashes your WordPress website. ( contact form @ https://codelyfe.github.io ) for more info.
