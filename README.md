@@ -23,7 +23,7 @@
 - Monitor Server Resources
 - Lazy image loader
 - Monitor upload directory
-- Steam Live View YouTube
+- Stream Live View YouTube
 - Facebook and Twitter Social Stream
 
 # We offer a plugin that allows you to enhance your security using newly developed security enhancements as well as keeping any website going even if there is a terrible plugin or theme update that crashes your WordPress website. ( contact form @ https://codelyfe.github.io ) for more info.
