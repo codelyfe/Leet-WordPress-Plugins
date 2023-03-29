@@ -1,7 +1,7 @@
 # Leet WordPress Plugins
  The most leet plugins created for WordPress developers. Create safer and faster performing websites today! 
 
- ( 21 Plugins so far )
+ ( 22 Plugins so far )
 
 ## What can these plugins offer?
 
@@ -9,7 +9,7 @@
 2. Performance and Security Enhancements
 3. Stop Using Bloated Unsecure Plugins and use these!
 4. Features:
-- Hide Dashboard ( Speedup admin page load )
+- Hide Dashboard ( Speedup admin page load 133)
 - Developer Note Taking
 - Customize Background Color
 - Customize CSS for current theme
@@ -29,5 +29,6 @@
 - Edit WooCommerece Products
 - Disable Plugin Installer
 - Prevent Brute Force Attacks
+- Validate Login Info
 
 # We offer a plugin that allows you to enhance your security using newly developed security enhancements as well as keeping any website going even if there is a terrible plugin or theme update that crashes your WordPress website. ( contact form @ https://codelyfe.github.io ) for more info.
