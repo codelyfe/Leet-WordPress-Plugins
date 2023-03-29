@@ -1,7 +1,7 @@
 # Leet WordPress Plugins
  The most leet plugins created for WordPress developers. Create safer and faster performing websites today! 
 
- ( 20 Plugins so far )
+ ( 21 Plugins so far )
 
 ## What can these plugins offer?
 
@@ -28,5 +28,6 @@
 - Facebook and Twitter Social Stream
 - Edit WooCommerece Products
 - Disable Plugin Installer
+- Prevent Brute Force Attacks
 
 # We offer a plugin that allows you to enhance your security using newly developed security enhancements as well as keeping any website going even if there is a terrible plugin or theme update that crashes your WordPress website. ( contact form @ https://codelyfe.github.io ) for more info.
