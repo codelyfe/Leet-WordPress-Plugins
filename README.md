@@ -9,7 +9,7 @@
 2. Performance and Security Enhancements
 3. Stop Using Bloated Unsecure Plugins and use these!
 4. Features:
-- Hide Dashboard
+- Hide Dashboard ( Speedup admin page load )
 - Developer Note Taking
 - Customize Background Color
 - Customize CSS for current theme
